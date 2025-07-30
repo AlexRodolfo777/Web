@@ -1,0 +1,26 @@
+{
+  "name": "guia-parafusos",
+  "version": "1.0.0",
+  "description": "Guia Completo de Parafusos - Aplicação Web Interativa",
+  "main": "app_parafusos.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'Build completed - static site ready for deployment'"
+  },
+  "keywords": [
+    "parafusos",
+    "engenharia",
+    "calculadora",
+    "técnico",
+    "ferramentas"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
